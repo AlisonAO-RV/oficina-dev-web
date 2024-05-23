@@ -75,7 +75,7 @@ const items = [
     title: "Categorias",
     value: "categoria",
     icon: "mdi-tag",
-    link: "/api/usuario",
+    link: "/categoria",
   },
 ];
 
